@@ -1,0 +1,7 @@
+- id: com.intretech.readerx:id/tv_dialog_agreement_confirm
+- id: com.intretech.readerx:id/tv_welcome_look
+- id: com.intretech.readerx:id/img_main_search_icon
+#- xpath: //*[@text='搜索']
+- id: com.intretech.readerx:id/edit_search
+  input: a
+- xpath: //*[@text='绘本']'
